@@ -1,3 +1,7 @@
+// Amarilla Arancibia Ani Manuela
+//Zambrano Andreade Juan Francisco
+//Oliva Carolina Milena
+//Ruscitto Rosalia
 #include <iostream>
 #include <string>
 #include <unistd.h> // Para usar sleep()
